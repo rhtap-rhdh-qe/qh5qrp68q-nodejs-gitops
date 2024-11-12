@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qh5qrp68q-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qh5qrp68q-nodejs-gitops
